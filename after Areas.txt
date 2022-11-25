@@ -1,2 +1,0 @@
-this will be committed after Areas commit.
-Github Desktop에서 박스를 체크하면 add됨.
