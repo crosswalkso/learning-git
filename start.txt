@@ -1,1 +1,19 @@
 Title: Git for Everyone
+
+Areas
+---
+1. Working Directory  
+Untracked files, modified files  
+>> 파일 추가, 수정하는 곳
+| git add <file>
+2. Staging Area (Index)  
+staged, unmodified, Index  
+Local Repository에 commit하기 직전의 파일들이 있는 곳
+>> commit 예정인 파일들
+| git commit
+3. Repository (Head)  
+Staging Area에서 commit되어 버전이 만들어진 곳  
+>> 버전이 만들어진 곳
+.git directroy
+| git push
++. Area(Remote)
